@@ -1,0 +1,7 @@
+
+O incio de uma documentação começa com uma intodução geral sobre a necessidade do varejo de acordo com aquele tema
+após isso ele demonstra a utilidade dela no sistema ERP 
+em seguida mostrando uma print do processo 
+e exemplificando os porcessos de acordo com o print
+usando fontes padrões e listas
+
